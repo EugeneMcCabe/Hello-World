@@ -1,3 +1,3 @@
 # Hello-World
-Programme code to examine GitHubs features
+Programme code to check GitHubs features
 Testing GitHub features
